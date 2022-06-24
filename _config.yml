@@ -14,8 +14,15 @@ header:
     - name: 主页
       slug: /
     - name: 心理学
-      slug: /blog
+      slug: /main/docs/psy
+    - name: 机器学习
+      slug: /main/docs/ml
+    - name: 深度学习
+      slug: /main/docs/dl
+    - name: 随笔
+      slug: /main/docs/zw
     - name: 生活
+      slug: /life
 
 footer:
   show_powered_by: true
