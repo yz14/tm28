@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   主页
 baseurl: "/tm28" # the subpath of the site
 url: "https://yz14.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/yz1.jpg
+og_image: /assets/img/yz2.jpg
 google_analytics: "UA-121636368-3"
 
 header:
@@ -20,11 +20,11 @@ header:
 footer:
   show_powered_by: true
   contact:
-    - name: 邮箱
-      value: 1163660010@qq.com
+    - name: Email
+      value: 发送邮件
       link: mailto:1163660010@qq.com
     - name: WeChat
-      value: 1163660010
+      value: 二维码
       link: "#"
 #   follow:
 #     - name: Twitter
@@ -35,7 +35,7 @@ footer:
 #     - name: LinkedIn
 #       link: http://linkedin.com/in/YourLinkedInUsername
 #     - name: GitHub
-#       link: http://github.com/YourGitHubUsername
+#       link: http://yz14.github.io
 #     - name: Dribbble
 #       link: https://dribbble.com/YourDribbbleUsername
 #     - name: RSS
