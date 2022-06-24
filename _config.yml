@@ -14,6 +14,7 @@ header:
     - name: 主页
       slug: /
     - name: 博客
+      slug: /blog
     - name: 生活
 
 footer:
