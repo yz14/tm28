@@ -4,7 +4,7 @@
 title: YZ
 description: >- # this means to ignore newlines until "baseurl:"
   主页
-baseurl: "/tm28" # the subpath of the site
+baseurl: "" # the subpath of the site
 url: "https://yz14.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/yz2.jpg
 google_analytics: "UA-121636368-3"
@@ -13,7 +13,7 @@ header:
   pages:
     - name: 主页
       slug: /
-    - name: 博客
+    - name: 心理学
       slug: /blog
     - name: 生活
 
