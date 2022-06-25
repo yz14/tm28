@@ -19,10 +19,6 @@ header:
       slug: /main/docs/dl
     - name: 随笔
       slug: /main/docs/zw
-    - name: 生活
-      slug: /life
-    - name: 博客
-      slug: /blog
 
 footer:
   show_powered_by: true
