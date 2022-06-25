@@ -11,8 +11,6 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: 主页
-      slug: /
     - name: 心理学
       slug: /main/docs/psy
     - name: 机器学习
@@ -23,6 +21,8 @@ header:
       slug: /main/docs/zw
     - name: 生活
       slug: /life
+    - name: 博客
+      slug: /blog
 
 footer:
   show_powered_by: true
