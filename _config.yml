@@ -9,16 +9,16 @@ url: "https://yz14.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/yz.png
 google_analytics: "UA-121636368-3"
 
-header:
-  pages:
-    # - name: 心理学
-    #   slug: /main/docs/psy
-    # - name: 机器学习
-    #   slug: /main/docs/ml
-    # - name: 深度学习
-    #   slug: /main/docs/dl
-    # - name: 随笔
-    #   slug: /main/docs/zw
+# header:
+#   pages:
+#     # - name: 心理学
+#     #   slug: /main/docs/psy
+#     # - name: 机器学习
+#     #   slug: /main/docs/ml
+#     # - name: 深度学习
+#     #   slug: /main/docs/dl
+#     # - name: 随笔
+#     #   slug: /main/docs/zw
 
 footer:
   show_powered_by: true
