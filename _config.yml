@@ -24,10 +24,10 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: 发送邮件
+      value: E-mail
       link: mailto:1163660010@qq.com
     - name: WeChat
-      value: 二维码
+      value: WeChat
       link: "#"
 #   follow:
 #     - name: Twitter
