@@ -6,7 +6,10 @@ profile_picture:
 ---
 
 &emsp;&emsp;欢迎来到我的主页~  
-ok
+
+231105 避免熬夜。昨天，美好的周末，仅仅因为晚上熬夜了，没休息好，导致脑袋晕了一整天，学也学不好，玩也玩不好，浪费了。还不如早点睡了，哪怕时把一整天的娱乐时间放到白天呢。熬夜的原因可能时晚上娱乐没有罪恶感，白天总想着大把时间不学习可惜了。
+
+231106 一个方向。用深度学习建模，GAN, VAE, NeRF, Diffusion类似的模型。
 
 
 <!-- &emsp;&emsp;欢迎来到我的主页。<a href="https://baike.baidu.com/item/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E8%B4%B9%E6%9B%BC/2149327?fromtitle=%E8%B4%B9%E6%81%A9%E6%9B%BC&fromid=1900983&fr=aladdin">理查德·费曼</a>（Richard Phillips Feynman，著名物理学家）在他的自传里写道：“最好的学习方法就是将知识教会给别人”，所以，我在这里记录了一些学习笔记。这些笔记主要是关于<a href="https://yz14.github.io/main/docs/ml">机器学习</a>、<a href="https://yz14.github.io/main/docs/dl">深度学习</a>、<a href="https://yz14.github.io/main/docs/psy">心理学</a>和一些<a href="https://yz14.github.io/main/docs/zw">随笔</a>。
