@@ -6,5 +6,5 @@ profile_picture:
 ---
 
 
-[code](https://baike.baidu.com) \\
-[paper reading](https://baike.baidu.com)
+- [code](https://baike.baidu.com) \\
+- [paper reading](https://baike.baidu.com)
