@@ -1,5 +1,5 @@
 ---
-layout: phd
+layout: post
 title: Phd Application
 slug: /phd
 ---
