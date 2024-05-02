@@ -16,7 +16,11 @@ slug: /blog
 
 240501 我发现我学了很多，但是我无法将它们联系起来，它们都是单独的存在。这是个问题。这可能和我习惯有关，例如缺什么补什么，没有进行系统性的学习。可以多看教材，或者多写，多思考。
 
-240501 看了论文、notes或者课本后，一定记得整理，用自己的话重述，不然容易忘，而且日后找不到又重新看。
+240501 看了论文、notes或者课本后，一定记得整理，用自己的话重述，不然容易忘，而且日后找不到又重新看。  
+
+{% highlight ruby %}
+#=> input x
+{% endhighlight %}  
 
 
 <!-- &emsp;&emsp;欢迎来到我的主页。<a href="https://baike.baidu.com/item/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E8%B4%B9%E6%9B%BC/2149327?fromtitle=%E8%B4%B9%E6%81%A9%E6%9B%BC&fromid=1900983&fr=aladdin">理查德·费曼</a>（Richard Phillips Feynman，著名物理学家）在他的自传里写道：“最好的学习方法就是将知识教会给别人”，所以，我在这里记录了一些学习笔记。这些笔记主要是关于<a href="https://yz14.github.io/main/docs/ml">机器学习</a>、<a href="https://yz14.github.io/main/docs/dl">深度学习</a>、<a href="https://yz14.github.io/main/docs/psy">心理学</a>和一些<a href="https://yz14.github.io/main/docs/zw">随笔</a>。
