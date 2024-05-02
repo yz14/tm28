@@ -20,6 +20,8 @@ slug: /blog
 
 {% highlight ruby %}
 #=> input x
+def f(x):
+    return x
 {% endhighlight %}  
 
 
