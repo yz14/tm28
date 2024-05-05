@@ -18,17 +18,9 @@ slug: /blog
 
 240501 看了论文、notes或者课本后，一定记得整理，用自己的话重述，不然容易忘，而且日后找不到又重新看。  
 
-{% highlight ruby %}
-#=> input x
-def f(x):
-    return x
-{% endhighlight %}  
+240503 来到长沙准备工作，感觉非常的孤单，没有一个朋友和亲人。  
 
-```
-def f(x):
-    y = x**2
-    return y
-```
+240504 此时此刻非常想去学校继续读书，就像是出了社会之后才体会到读书的好的那种感觉。谁让自己读书那会不认真呢。
 
 
 <!-- &emsp;&emsp;欢迎来到我的主页。<a href="https://baike.baidu.com/item/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E8%B4%B9%E6%9B%BC/2149327?fromtitle=%E8%B4%B9%E6%81%A9%E6%9B%BC&fromid=1900983&fr=aladdin">理查德·费曼</a>（Richard Phillips Feynman，著名物理学家）在他的自传里写道：“最好的学习方法就是将知识教会给别人”，所以，我在这里记录了一些学习笔记。这些笔记主要是关于<a href="https://yz14.github.io/main/docs/ml">机器学习</a>、<a href="https://yz14.github.io/main/docs/dl">深度学习</a>、<a href="https://yz14.github.io/main/docs/psy">心理学</a>和一些<a href="https://yz14.github.io/main/docs/zw">随笔</a>。
